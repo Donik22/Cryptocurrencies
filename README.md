@@ -1,6 +1,8 @@
 # Cryptocurrencies
 <img src="Resources/cryptoAI.jpg" alt="alt text" width="900" height="whatever">
+
 ## Overview
+
 Our objective for this prouct is to Research the best cryptocurrency using Unsupervised machine learning Modules.
 Techniques used:
 - Cleaning Data
